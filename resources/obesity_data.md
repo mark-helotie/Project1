@@ -3,9 +3,7 @@
 This dataset was downloaded from
 https://catalog.data.gov/dataset/500-cities-local-data-for-better-health-2016-release
 
-The original CSV download was 217MB.
-
-Un-needed rows and columns were manually removed, and that resulted in this CSV.
+The original CSV download was 217MB.  Un-needed rows and columns were manually removed, and that resulted in this CSV of 4.5MB
 
 Some notes for the data in this CSV:
 
