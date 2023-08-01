@@ -7,6 +7,7 @@ We are limited to 5000 API calls per day, per key.
 So we pulled the data down over several days, using several API keys (multiple team members).
 
 The data pulled is as follows (state, quantity):
+ - CA 5239
  - TX 2961
  - NY 2462
  - FL 1295
