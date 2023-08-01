@@ -1,2 +1,2 @@
 #keys
-walkscore_key = "Yourkey"
+walkscore_key = ""
