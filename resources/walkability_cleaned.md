@@ -6,14 +6,7 @@ https://www.walkscore.com/professional/api.php
 We are limited to 5000 API calls per day, per key.
 So we pulled the data down over several days, using several API keys (multiple team members).
 
-The data pulled is as follows (state, quantity):
- - CA 5239
- - TX 2961
- - NY 2462
- - FL 1295
- - IL 1285
- - AZ 1000
- - OH 821
- - NC 764
- - MI 724
- - HI 234
+We pulled data from the 15 most populous states:
+
+![image](https://github.com/demzilla/Project1/assets/43053988/7e3806d3-0a3a-42fb-9200-6e3d5b0ae600)
+
