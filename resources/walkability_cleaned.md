@@ -11,5 +11,6 @@ The data pulled is as follows (state, quantity):
  - TX 2961
  - NY 2462
  - FL 1295
+ - IL 1285
  - AZ 1000
  - HI 234
