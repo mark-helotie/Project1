@@ -13,4 +13,5 @@ The data pulled is as follows (state, quantity):
  - FL 1295
  - IL 1285
  - AZ 1000
+ - NC 764
  - HI 234
