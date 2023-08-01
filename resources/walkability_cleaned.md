@@ -1,15 +1,14 @@
 # walkability_cleaned
 
-This dataset was downloaded from
-https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid=%7B251AFDD9-23A7-4068-9B27-A3048A7E6012%7D
+This dataset was downloaded via API calls from api.walkscore.com
+https://www.walkscore.com/professional/api.php
 
-The original CSV download was 197MB.  File was redcued to 15MB
+We are limited to 5000 API calls per day, per key.
+So we pulled the data down over several days, using several API keys (multiple team members).
 
-Some notes for the data in this CSV:
-
-- Pct_AO1 = Percent of one-car households in CBG, 2018 
-- Pct_AO2 = Percent of two-car households in CBG, 2018 
-- P_WrkAge = Percent of population that is working aged 18 to 64 years
-
-
-
+The data pulled is as follows (state, quantity):
+ - TX 2961
+ - NY 2462
+ - FL 1295
+ - AZ 1000
+ - HI 234
