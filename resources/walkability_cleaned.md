@@ -6,7 +6,7 @@ https://www.walkscore.com/professional/api.php
 We are limited to 5000 API calls per day, per key.
 So we pulled the data down over several days, using several API keys (multiple team members).
 
-We pulled data from several of the most populous states (state, quantity of data points):
+We pulled over 20,000 data points, from several of the most populous states (state, quantity of data points):
 
 - CA    5239
 - TX    2961
