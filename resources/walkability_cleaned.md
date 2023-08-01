@@ -21,5 +21,7 @@ We pulled data from several of the most populous states (state, quantity of data
 - PA     631
 - IN     514
 - TN     511
+- WA     503
+- VA     499
 - HI     234
 
