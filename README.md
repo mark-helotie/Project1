@@ -1,20 +1,22 @@
 # **Walkability Score and Obesity Correlation Analysis**
+
 ## Project Overview
 Welcome to the Walkability Score and Obesity Correlation Analysis project! This collaborative effort aims to investigate the potential correlation between walkability scores and obesity rates across the top 15 most populous states in the United States *(and Hawaii)*. 
 
 This project is a collaborative effort brought to you by the following team members:
 
+- Mauricio Andrews - Visualization and Plotting
+
 - Nathaniel Cervantez - Visualizations
-
-- Mark Helotie - Data Collection and API Calls
-
-- Bryant Griessel - Data Collection and API Calls
 
 - Isaac Gish - Visualization and Plotting
 
-- Mauricio Andrews - Visualization and Plotting
+- Bryant Griessel - Data Collection and API Calls
 
-- Manasi - Documenation and Project Design
+- Mark Helotie - Data Collection and API Calls
+
+- Manasi Shidhaye - Documenation and Project Design
+
 
 ## Project Goals
 
@@ -25,6 +27,7 @@ Correlation Analysis: Explore and analyze the potential correlation between walk
 Data Visualization - Provide meaningful visualizations to help the viewers understand the data analysis.
 
 ## Methodology
+
 Data Collection: Gather walkability scores and obesity rate data from reliable sources.
 
 Data Preprocessing: Clean, prepare, and format the collected data for analysis.
