@@ -47,7 +47,7 @@ Obesity Rate Data: [Data.gov](https://catalog.data.gov/dataset/500-cities-local-
 
 ## Data Collection
 
-Data collection was performed by **Mark** **Bryant** using the specified data sources above. Walkability scores were collected for each of the top 15 most populous states using API calls on the Walk Score API.
+Data collection was performed by **Mark** & **Bryant** using the specified data sources above. Walkability scores were collected for each of the top 15 most populous states using API calls on the Walk Score API.
 
 ## Data Analysis
 The collected data was subjected to thorough analysis using statistical techniques. Correlation coefficients and p-values were calculated to determine the strength and significance of the relationship between walkability scores and obesity rates.
