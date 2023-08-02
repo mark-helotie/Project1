@@ -3,7 +3,7 @@
 ## Project Overview
 Welcome to the Walkability Score and Obesity Correlation Analysis project! This collaborative effort aims to investigate the potential correlation between walkability scores and obesity rates across the top 15 most populous states in the United States *(and Hawaii)*. 
 
-This project is a collaborative effort brought to you by the following team members:
+This project is a collaborative effort brought to you by Team 3 ... comprised of the following team members:
 
 - Mauricio Andrews - Visualization and Plotting
 
