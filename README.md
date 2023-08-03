@@ -18,8 +18,7 @@ This project is a collaborative effort brought to you by Team 3 ... comprised of
 - Manasi Shidhaye - Documenation and Project Design
 
 
-ZOOM Recording
-https://zoom.us/rec/play/AapPG_mgfNA3_hnQ-DyjgNpEXDOfYxIasIMlolB-FpEE5lVR7j3-xumc1cxLbZgM5b01TtZ3FduLtRmP.9wygv-XXjAQeIMJr
+[ZOOM Recording](https://zoom.us/rec/play/AapPG_mgfNA3_hnQ-DyjgNpEXDOfYxIasIMlolB-FpEE5lVR7j3-xumc1cxLbZgM5b01TtZ3FduLtRmP.9wygv-XXjAQeIMJr)
 
 
 ## Project Goals
